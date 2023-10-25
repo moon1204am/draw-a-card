@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lavenderblush;
+}
+
+header img {
+    max-width: 150px;
+    height: auto;
+}
+
+p {
+    color: black;
+}
